@@ -1,0 +1,25 @@
+.container{
+    color: aliceblue;
+}
+.heading{
+    color:aliceblue;
+}
+.filters{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    align-items:center; 
+    justify-content:center;    
+    gap: 85px;
+    font-size: larger;
+}
+
+.btn{
+    background-color: rgb(33, 188, 56);
+}
+.btn1{
+    background-color: rgb(231, 49, 49);
+}
+.btn1:hover{
+    background-color: rgb(240, 12, 12);
+}
